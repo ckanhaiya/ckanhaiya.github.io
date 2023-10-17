@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kanhaiya Lal Chaurasiya
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kanhaiya Lal
+last_name: Chaurasiya
 
 # Status emoji
 status:
@@ -14,34 +14,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Project Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IIT Kanpur
+    url: https://ckanhaiya.github.io/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinspired Dynamical Systems
+  - Structural Health Monitoring
+  - Shape Memory Alloy Actuators
+  - Fluid Mechanics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: BTech-MTech (Dual Degree) in Mechanical Engineering
+    institution: Indian Institute of Technology Kanpur
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,13 +54,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=iW6571cAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/klc243g/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
