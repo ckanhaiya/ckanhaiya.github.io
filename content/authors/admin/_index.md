@@ -40,7 +40,7 @@ education:
       year: 2012
     - course: BTech (Dual Degree) in Mechanical Engineering
       institution: Indian Institute of Technology Kanpur
-      year: 2009
+      year: 20011-15
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,12 +62,12 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Kanhaiya_Chaurasiya
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/klc243g/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=iW6571cAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/klc243g/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
