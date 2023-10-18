@@ -37,10 +37,10 @@ education:
   courses:
   - course: MTech (Dual-Degree) in Mechanical Engineering 
     institution: Indian Institute of Technology Kanpur
-    year: 2015-16
+    year: 2015
   - course: BTech (Dual-Degree) in Mechanical Engineering
     institution: Indian Institute of Technology Kanpur
-    year: 2011-15
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,16 +65,15 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_KLC.pdf
+ # - icon: cv
+  #  icon_pack: ai
+  #  link: uploads/CV_KLC.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kanhaiya.chaurasiya@outlook.com'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 Kanhaiya Lal Chaurasiya is a Senior Project Scientist in the Department of Mechanical Engineering at the Indian Institute of Technology Kanpur. At the Smart Materials, Structures, and Systems (SMSS) Lab, he leads the development of innovative projects, including an SMA-powered Bionic Arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, he enjoys wall climbing with the IIT Kanpur Climbing Club, participates in 5km and 10km runs, and has a passion for flora photography.
 {style="text-align: justify;"}
