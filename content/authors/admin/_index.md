@@ -49,22 +49,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: mailto:kanhaiya.chaurasiya@outlook.com
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+  - icon: orcid
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://orcid.org/0000-0001-8946-8862
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Kanhaiya_Chaurasiya
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/klc243g/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=iW6571cAAAAJ&hl=en
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -79,7 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Certainly, here's a shorter version:
-
-Kanhaiya Lal Chaurasiya is a Senior Project Scientist in the Department of Mechanical Engineering at the Indian Institute of Technology Kanpur. At the Smart Materials, Structures, and Systems (SMSS) Lab, he leads the development of innovative projects, including an SMA-powered Bionic Arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, he enjoys rock climbing with the IIT Kanpur Rock Climbing Club, participates in 5km and 10km runs, and has a passion for flora photography.
+Kanhaiya Lal Chaurasiya is a Senior Project Scientist in the Department of Mechanical Engineering at the Indian Institute of Technology Kanpur. At the Smart Materials, Structures, and Systems (SMSS) Lab, he leads the development of innovative projects, including an SMA-powered Bionic Arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, he enjoys wall climbing with the IIT Kanpur Climbing Club, participates in 5km and 10km runs, and has a passion for flora photography.
 {style="text-align: justify;"}
