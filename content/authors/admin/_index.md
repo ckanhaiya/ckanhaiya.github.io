@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kanhaiya Lal Chaurasiya
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kanhaiya Lal
+last_name: Chaurasiya
 
 # Status emoji
 status:
@@ -14,34 +14,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Project Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: IIT Kanpur
     url: https://ckanhaiya.github.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinspired System Design
+  - Shape Memory Alloy
+  - Actuators and Control
+  - Structural Health Monitoring
+  - Fluid Mechcanics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: MTech (Dual Degree) in Mechanical Engineering
+      institution: Indian Institute of Technology Kanpur
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BTech (Dual Degree) in Mechanical Engineering
+      institution: Indian Institute of Technology Kanpur
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,8 +56,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
@@ -80,5 +79,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Certainly, here's a shorter version:
+
+Kanhaiya Lal Chaurasiya is a Senior Project Scientist in the Department of Mechanical Engineering at the Indian Institute of Technology Kanpur. At the Smart Materials, Structures, and Systems (SMSS) Lab, he leads the development of innovative projects, including an SMA-powered Bionic Arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, he enjoys rock climbing with the IIT Kanpur Rock Climbing Club, participates in 5km and 10km runs, and has a passion for flora photography.
 {style="text-align: justify;"}
