@@ -259,6 +259,7 @@ sections:
       contact_links:
       - icon: linkedin
         icon_pack: fab
+        name: Connect me
         link: https://www.linkedin.com/in/klc243g/ 
       # Automatically link email and phone or display as text?
       autolink: true
