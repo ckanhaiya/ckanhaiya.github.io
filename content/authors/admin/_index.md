@@ -37,10 +37,10 @@ education:
   courses:
     - course: MTech (Dual Degree) in Mechanical Engineering
       institution: Indian Institute of Technology Kanpur
-      year: 2012
+      year: 2015-16
     - course: BTech (Dual Degree) in Mechanical Engineering
       institution: Indian Institute of Technology Kanpur
-      year: 20011-15
+      year: 2011-15
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
