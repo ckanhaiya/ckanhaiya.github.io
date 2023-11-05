@@ -100,9 +100,7 @@ sections:
           date_end: '2014-06-30'
           description: |2-
           * Studied Gyroscopic Effect in end spinning of drum-type washing machine and performed dynamic modeling of washer in MATLAB Simulink.
-          * Proposed a novel design having an increment in maximum end-spin velocity by 250 RPM leading
-to a decrease in drying time compared to benchmarked products.
-
+          * Proposed a novel design having an increment in maximum end-spin velocity by 250 RPM leading to a decrease in drying time compared to benchmarked products.
     design:
       columns: '2'
   # - block: accomplishments
