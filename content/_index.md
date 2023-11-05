@@ -79,7 +79,7 @@ sections:
           location: Pune, India
           date_start: '2014-05-01'
           date_end: '2014-06-30'
-          description: ABCD
+          description: 
     design:
       columns: '2'
   # - block: accomplishments
