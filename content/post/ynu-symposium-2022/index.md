@@ -3,6 +3,7 @@
 
 title: Invited Speaker - YNU International Symposium 2022 at Yokohama, Japan
 # subtitle: ""
+
 summary: Theme: Sustainability Transformation to a Resilient Society
 
 authors: 
@@ -14,9 +15,9 @@ tags: ''
 categories: 
   - News
 
-date: '2023-12-22T00:00:00Z'
+date: '2022-12-22T00:00:00Z'
 
-lastmod: '2023-12-22T00:00:00Z'
+lastmod: '2022-12-22T00:00:00Z'
 
 featured: false
 
@@ -56,8 +57,8 @@ YNU’s proposal “Yokohama International Education Program for Leading Sustain
 ### Scope and Topics
 The environment surrounding us is rapidly changing due to global environmental issues such as global warming, changes in industrial structure caused by technological advancements, and epidemics of new coronaviruses. By interacting directly with students and faculty from overseas, both in person and online, the symposium will provide an opportunity for global interactions across disciplines and to understand each other's values. We hope that this symposium will provide an opportunity for new exchanges among the participants and their research colleagues.
 
-{{< figure src="1.jpg" title="Keynote Speaker - Prof. Bishakh Bhattacharya at YNU International Symposium 2022" numbered="true" >}}
-{{< figure src="2.jpg" title="Invited Speaker - Kanhaiya Lal Chaurasiya at YNU International Symposium 2022" numbered="true" >}}
+{{< figure src="1.jpg" caption="Keynote Speaker - Prof. Bishakh Bhattacharya at YNU International Symposium 2022" numbered="true" >}}
+{{< figure src="2.jpg" caption="Invited Speaker - Kanhaiya Lal Chaurasiya at YNU International Symposium 2022" numbered="true" >}}
 
 ### Event gallery
 {{< gallery album="album" >}}
