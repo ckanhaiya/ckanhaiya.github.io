@@ -62,5 +62,5 @@ The environment surrounding us is rapidly changing due to global environmental i
 {{< figure src="1.jpg" caption="Keynote Speaker - Prof. Bishakh Bhattacharya at YNU International Symposium 2022" numbered="true" >}}
 
 ### Event gallery
-{{< gallery album="ynu" >}}
+{{< gallery album="ynu-symposium-2022" >}}
 
