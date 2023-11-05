@@ -1,12 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ISSS Technology Award-2022 jontly awarded to Kanhaiya Lal Chaurasiya and Yashaswi Sinha"
-subtitle: ""
-summary: "Constituted by Institute for Smart Structures and Systems (ISSS), a professional society at IISc Bangalore."
-authors: [admin, Yashaswi Sinha]
-tags: []
-categories: [News]
+title: ISSS Technology Award-2022 jontly awarded to Kanhaiya Lal Chaurasiya and Yashaswi Sinha
+subtitle: ''
+summary: Constituted by Institute for Smart Structures and Systems (ISSS), a professional society at IISc Bangalore.
+authors: 
+- admin
+- Yashaswi Sinha
+tags: ''
+categories: 
+- News
 date: 2023-05-15T19:12:06+05:30
 lastmod: 2023-05-15T19:12:06+05:30
 featured: true
@@ -16,8 +19,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: true
 
 
