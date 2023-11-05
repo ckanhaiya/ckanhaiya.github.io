@@ -82,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a Senior Project Scientist in the Department of Mechanical Engineering at the Indian Institute of Technology Kanpur. At the [Smart Materials, Structures, and Systems (SMSS) Lab](https://www.iitk.ac.in/smss/), I am currently leading the development of innovative projects, including an SMA-powered Bionic Arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, I enjoy wall climbing and bouldering with the IIT Kanpur Climbing Club, participate in 5km and 10km runs, and have a passion for flora photography.
+I am presently working as Senior Project Scientist in the Department of Mechanical Engineering at the Indian Institute of Technology Kanpur. At the [Smart Materials, Structures, and Systems (SMSS) Lab](https://www.iitk.ac.in/smss/), I am currently leading the development of innovative projects, including an SMA-powered Bionic Arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, I enjoy wall climbing and bouldering with the IIT Kanpur Climbing Club, participate in 5km and 10km runs, and have a passion for flora photography.
 {style="text-align: justify;"}
