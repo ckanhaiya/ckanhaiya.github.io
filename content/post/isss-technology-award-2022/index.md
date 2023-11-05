@@ -2,16 +2,24 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: ISSS Technology Award-2022 jontly awarded to Kanhaiya Lal Chaurasiya and Yashaswi Sinha
+
 subtitle: ''
+
 summary: Constituted by Institute for Smart Structures and Systems (ISSS), a professional society at IISc Bangalore.
+
 authors: 
-- admin
-- Yashaswi Sinha
+  - admin
+  - Yashaswi Sinha
+
 tags: ''
+
 categories: 
-- News
+  - News
+
 date: ' '2023-05-15T00:00:00Z'
+
 lastmod: '2023-05-15T00:00:00Z'
+
 featured: true
 # draft: false
 
@@ -21,9 +29,7 @@ featured: true
 image:
   caption: ''
   focal_point: ''
-  preview_only: true
-
-
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -35,7 +41,7 @@ projects: []
 {{< tweet user="IITKanpur" id="1656999150377127937" >}}
 
 
-Heartiest Congratulations to [Mr. Kanhaiya Lal Chaurasiya]({{< relref "../../authors/admin" >}}) and Mr. Yashaswi Sinha from the Department of Mechanical Engineering for being awarded the WINNER under the **ISSS Technology Award 2022** category constituted by [Institute for Smart Structures and Systems (ISSS)](https://isssonline.in/), a professional society at Indian Institute of Science (IISc) Bangalore.
+Heartiest Congratulations to Mr. Kanhaiya Lal Chaurasiya and Mr. Yashaswi Sinha from the Department of Mechanical Engineering for being awarded the WINNER under the **ISSS Technology Award 2022** category constituted by [Institute for Smart Structures and Systems (ISSS)](https://isssonline.in/), a professional society at Indian Institute of Science (IISc) Bangalore.
 
 Mr. Kanhaiya (Senior Project Scientist) and Mr. Yashaswi (Project Engineer) have worked with [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/smss/#about) and got this award for their innovation on **"Bio-inspired shape memory alloy based artificial muscle actuator for medical and space robots application."**
 
