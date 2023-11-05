@@ -19,5 +19,6 @@ abstract: The invention discloses a speed control system for Pipe Health Monitor
   by virtue of these mechanisms, the PHMR experiences constant speed during its movement
   inside the gas pipeline. This will help in effective, accurate and seamless inspection
   of the gas pipelines spread over a large network area.
-  publication: 'Application Number : 202011016379'
+
+publication: 'Application Number - 202011016379'
 ---

@@ -20,5 +20,6 @@ abstract: A hyperloop transportation system (100) for transporting goods, is dis
   arranged on at least two sides of the wagon (108). Each wheel assembly includes
   wheels arranged to pass on the guided rails (114) for adapting the robot vehicle
   (104) to travel within the pipeline (102).
-publication: 'Application Number : 202211077045'
+
+publication: 'Application Number - 202211077045'
 ---
