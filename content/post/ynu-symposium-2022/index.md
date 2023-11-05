@@ -1,26 +1,36 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "YNU International Symposium 2022 at Yokohama, Japan"
-subtitle: ""
-summary: "Theme: Sustainability Transformation to a Resilient Society"
-authors: [admin, kanhaiya, mgohil, Anjali Rameswari]
-tags: []
-categories: [News]
-date: 2022-12-22T00:00:00+05:30
-lastmod: 2022-12-22T00:00:00+05:30
+title: Invited Speaker - YNU International Symposium 2022 at Yokohama, Japan
+# subtitle: ""
+summary: Theme: Sustainability Transformation to a Resilient Society
+
+authors: 
+  - admin
+  - Prof. Bishakh Bhattacharya
+
+tags: ''
+
+categories: 
+  - News
+
+date: '2023-12-22T00:00:00Z'
+
+lastmod: '2023-12-22T00:00:00Z'
+
 featured: false
+
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: true
 
-text-align: justify;
+# text-align: justify;
 
 
 # Projects (optional).
@@ -48,7 +58,6 @@ The environment surrounding us is rapidly changing due to global environmental i
 
 {{< figure src="1.jpg" title="Keynote Speaker - Prof. Bishakh Bhattacharya at YNU International Symposium 2022" numbered="true" >}}
 {{< figure src="2.jpg" title="Invited Speaker - Kanhaiya Lal Chaurasiya at YNU International Symposium 2022" numbered="true" >}}
-{{< figure src="DSC_2507.jpg" title="Student Poster Presentation - Mahendra Kumar Gohil at YNU International Symposium 2022" numbered="true" >}}
-{{< figure src="DSC_2509.jpg" title="Student Poster Presentation - Anjali Rameswari at YNU International Symposium 2022" numbered="true" >}}
+
 ### Event gallery
 {{< gallery album="album" >}}
