@@ -86,7 +86,7 @@ sections:
           company_logo: tml
           location: Pune, India
           date_start: '2016-09-01'
-          date_end: '2019-03-31'
+          date_end: '2019-03-30'
           description: |2-
           * Conducted multibody modeling and vehicle dynamics simulations for Futuristic Infantry Combat Vehicle (FICV) and resolved infield failures in commercial vehicle interiors. Collaborated on acoustic and thermal solutions.
           * Led a team to implement technology development projects across vehicle platforms, specializing in project management, design, resource allocation, and stakeholder communication.
