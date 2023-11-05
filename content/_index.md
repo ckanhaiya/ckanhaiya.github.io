@@ -70,19 +70,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+          - title: Senior Project Scientist
+          company: Indian Institute of Technology (IIT) Kanpur
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+          company_logo: whirlpool
+          location: Kanpur, India
+          date_start: '2019-04-01'
+          date_end: 
+          description: 
 
-              * Analysing
-              * Modelling
-              * Deploying
+        - title: Senior Manager
+          company: Tata Motors
+          company_url: ''
+          company_logo: whirlpool
+          location: Pune, India
+          date_start: '2016-09-01'
+          date_end: '2019-03-31'
+          description: 
+
         - title: Summer Intern
           company: Whirlpool Corporation
           company_url: ''
@@ -90,9 +95,7 @@ sections:
           location: Pune, India
           date_start: '2014-05-01'
           date_end: '2014-06-30'
-          description: |2-
-              * Studied Gyroscopic Effect in end spinning of drum-type washing machine and performed dynamic modeling of washer in MATLAB Simulink.
-              * roposed a novel design having an increment in maximum end-spin velocity by 250 RPM leading to a decrease in drying time compared to benchmarked products.
+          description: 
     design:
       columns: '2'
   # - block: accomplishments
