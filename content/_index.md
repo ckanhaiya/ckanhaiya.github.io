@@ -83,14 +83,16 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Summer Intern
+          company: Whirlpool Corporation
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: whirlpool
+          location: Pune, India
+          date_start: '2014-05-01'
+          date_end: '2014-06-30'
+          description: |2-
+              * Studied Gyroscopic Effect in end spinning of drum-type washing machine and performed dynamic modeling of washer in MATLAB Simulink.
+              * roposed a novel design having an increment in maximum end-spin velocity by 250 RPM leading to a decrease in drying time compared to benchmarked products.
     design:
       columns: '2'
   # - block: accomplishments
