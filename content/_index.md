@@ -260,8 +260,8 @@ sections:
       address:
         street: NL-102, Northern Laboratory 1, Department of Mechanical Engineering, IIT Kanpur
         city: Kanpur
-        region: Uttar Pradesh
-        postcode: '208016'
+        region: Uttar Pradesh - 
+        postcode: ' 208016'
         country: India
         country_code: IN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
