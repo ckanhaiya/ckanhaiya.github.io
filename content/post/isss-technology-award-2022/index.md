@@ -10,10 +10,10 @@ authors:
 tags: ''
 categories: 
 - News
-date: '2023-05-15T19:12:06+05:30'
-lastmod: '2023-05-15T19:12:06+05:30'
+date: ' '2023-05-15T00:00:00Z'
+lastmod: '2023-05-15T00:00:00Z'
 featured: true
-draft: false
+# draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
