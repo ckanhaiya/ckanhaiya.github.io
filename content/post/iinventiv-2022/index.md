@@ -41,9 +41,9 @@ projects: []
 ---
 {{< figure src="banner.jpg" >}}
 
-{{< figure src="explain.jpeg" >}}
-
  On behalf of [SMSS Laboratory](https://www.iitk.ac.in/smss/), I presented the indigenous innovation on adaptive intelligent pipe health monitoring robot for fuel transportation systems in [IInvenTiv 2022](https://www.linkedin.com/company/iinventiv), the first-of-its mega R&D Innovation Fair showcasing 75 technologies from 23 IITs under one umbrella. The event was inaugurated by Hon'ble Union Minister of Education, [Shri Dharmendra Pradhan Ji](https://twitter.com/dpradhanbjp), at IIT Delhi on 14 Oct 2022.
+
+ {{< figure src="explain.jpeg" >}}
 
  I got an opportunity to interact with various institutes and industries for further collaborations on futuristic research and innovations.
 
