@@ -12,6 +12,15 @@ publication_types:
 - article-journal
 publication: '*Scientific Reports*'
 doi: 10.1038/s41598-022-14848-w
+
+# Display this page in the Featured widget?
+featured: true
+
+image:
+  caption: 'From Fibre to Force!'
+  focal_point: ''
+  preview_only: false
+
 abstract: Abstract Actuators are ubiquitous to generate controlled motion through
   the application of suitable excitation force or torque to perform various operations
   in manufacturing and industrial automation. The demands placed on faster, smaller,

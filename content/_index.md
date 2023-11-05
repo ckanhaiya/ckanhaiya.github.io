@@ -222,7 +222,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        See all publications](./publication/).
+        [See all publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
