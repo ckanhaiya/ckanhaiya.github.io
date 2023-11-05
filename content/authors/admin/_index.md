@@ -7,8 +7,10 @@ first_name: Kanhaiya Lal
 last_name: Chaurasiya
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
+
+highlight_name: true
 
 # Is this the primary user of the site?
 superuser: true
@@ -56,15 +58,15 @@ social:
 #    label: Follow me on Twitter
 #    display:
 #      header: true
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0001-8946-8862
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Kanhaiya_Chaurasiya
+  # - icon: orcid
+  #   icon_pack: ai
+  #   link: https://orcid.org/0000-0001-8946-8862
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=iW6571cAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Kanhaiya_Chaurasiya
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/klc243g/
