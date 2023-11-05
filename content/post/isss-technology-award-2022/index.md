@@ -10,8 +10,8 @@ authors:
 tags: ''
 categories: 
 - News
-date: 2023-05-15T19:12:06+05:30
-lastmod: 2023-05-15T19:12:06+05:30
+date: '2023-05-15T19:12:06+05:30'
+lastmod: '2023-05-15T19:12:06+05:30'
 featured: true
 draft: false
 
