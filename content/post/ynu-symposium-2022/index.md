@@ -4,7 +4,7 @@
 title: Invited Speaker - YNU International Symposium 2022 at Yokohama, Japan
 # subtitle: ""
 
-summary: Theme: Sustainability Transformation to a Resilient Society
+summary: Theme - Sustainability Transformation to a Resilient Society
 
 authors: 
   - admin
@@ -44,3 +44,4 @@ projects: []
 
 ### Event gallery
 {{< gallery album="ynu" >}}
+
