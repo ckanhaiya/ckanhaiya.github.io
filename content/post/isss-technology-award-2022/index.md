@@ -32,13 +32,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< tweet user="IITKanpur" id="1656999150377127937" >}}
 
-{{< tweet 1656999150377127937 >}}
 
+Heartiest Congratulations to [Mr. Kanhaiya Lal Chaurasiya]({{< relref "../../authors/admin" >}}) and Mr. Yashaswi Sinha from the Department of Mechanical Engineering for being awarded the WINNER under the **ISSS Technology Award 2022** category constituted by [Institute for Smart Structures and Systems (ISSS)](https://isssonline.in/), a professional society at Indian Institute of Science (IISc) Bangalore.
 
-Heartiest Congratulations to [Mr. Kanhaiya Lal Chaurasiya]({{< relref "../../authors/kanhaiya" >}}) and Mr. Yashaswi Sinha from the Department of Mechanical Engineering for being awarded the WINNER under the **ISSS Technology Award 2022** category constituted by [Institute for Smart Structures and Systems (ISSS)](https://isssonline.in/), a professional society at Indian Institute of Science (IISc) Bangalore.
-
-Mr. Kanhaiya (Senior Project Scientist) and Mr. Yashaswi (Project Engineer) have worked with [Prof. Bishakh Bhattacharya]({{< relref "../../authors/admin" >}}) and got this award for their innovation on **"Bio-inspired shape memory alloy based artificial muscle actuator for medical and space robots application."**
+Mr. Kanhaiya (Senior Project Scientist) and Mr. Yashaswi (Project Engineer) have worked with [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/smss/#about) and got this award for their innovation on **"Bio-inspired shape memory alloy based artificial muscle actuator for medical and space robots application."**
 
 This Technology Award is designed for scientists/engineers who undertake major initiatives to commercialize a product in the area of micro and smart systems.
 
