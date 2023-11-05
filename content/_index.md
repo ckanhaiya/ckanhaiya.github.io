@@ -78,7 +78,9 @@ sections:
           location: Kanpur, India
           date_start: '2019-04-01'
           date_end: ''
-          description: ABCD
+          description: |2-
+              * Leading the development of noel projects via project initiation, planning, & execution phases.
+              * Drafting of research proposal to various sponsoring agencies, mentoring undergraduate and graduate students in their respective projects and thesis.
 
         - title: Senior Manager
           company: Tata Motors
