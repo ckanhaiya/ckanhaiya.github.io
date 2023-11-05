@@ -222,7 +222,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        See all publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
@@ -255,7 +255,6 @@ sections:
         # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: kanhaiya@iitk.ac.in
-      email: kanhaiya.chaurasiya@outlook.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
@@ -274,6 +273,10 @@ sections:
         icon_pack: fab
         name: Connect me
         link: https://www.linkedin.com/in/klc243g/ 
+      - icon: at
+        icon_pack: fab
+        name: kanhaiya.chaurasiya@outlook.com
+        link: kanhaiya.chaurasiya@outlook.com 
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
