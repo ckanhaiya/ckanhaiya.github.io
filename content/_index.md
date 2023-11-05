@@ -71,7 +71,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-
+        - title: Senior Project Scientist
+          company: Indian Institute of Technology (IIT) Kanpur
+          company_url: ''
+          company_logo: org-gc
+          location: Kanpur, India
+          date_start: '2019-04-01'
+          date_end: ''
+          description: ABCD
 
         - title: Senior Manager
           company: Tata Motors
