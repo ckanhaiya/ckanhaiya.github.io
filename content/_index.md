@@ -86,7 +86,7 @@ sections:
         - title: Summer Intern
           company: Whirlpool Corporation
           company_url: ''
-          company_logo: whirlpool
+          company_logo: whirlpool-1
           location: Pune, India
           date_start: '2014-05-01'
           date_end: '2014-06-30'
