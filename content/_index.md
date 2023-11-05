@@ -74,7 +74,7 @@ sections:
         - title: Senior Project Scientist
           company: Indian Institute of Technology (IIT) Kanpur
           company_url: ''
-          company_logo: iitk
+          company_logo: iitk-1
           location: Kanpur, India
           date_start: '2019-04-01'
           date_end: ''
