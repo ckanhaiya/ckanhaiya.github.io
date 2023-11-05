@@ -74,7 +74,7 @@ sections:
         - title: Senior Project Scientist
           company: Indian Institute of Technology (IIT) Kanpur
           company_url: ''
-          company_logo: iitk-1
+          company_logo: iitk
           location: Kanpur, India
           date_start: '2019-04-01'
           date_end: ''
@@ -86,8 +86,10 @@ sections:
           company_logo: tml
           location: Pune, India
           date_start: '2016-09-01'
-          date_end: '2019-03-30'
-          description: ABCD
+          date_end: '2019-03-31'
+          description: |2-
+          * Conducted multibody modeling and vehicle dynamics simulations for Futuristic Infantry Combat Vehicle (FICV) and resolved infield failures in commercial vehicle interiors. Collaborated on acoustic and thermal solutions.
+          * Led a team to implement technology development projects across vehicle platforms, specializing in project management, design, resource allocation, and stakeholder communication.
 
         - title: Summer Intern
           company: Whirlpool Corporation
@@ -96,7 +98,11 @@ sections:
           location: Pune, India
           date_start: '2014-05-01'
           date_end: '2014-06-30'
-          description: 
+          description: |2-
+          * Studied Gyroscopic Effect in end spinning of drum-type washing machine and performed dynamic modeling of washer in MATLAB Simulink.
+          * Proposed a novel design having an increment in maximum end-spin velocity by 250 RPM leading
+to a decrease in drying time compared to benchmarked products.
+
     design:
       columns: '2'
   # - block: accomplishments
