@@ -61,4 +61,4 @@ The environment surrounding us is rapidly changing due to global environmental i
 {{< figure src="2.jpg" caption="Invited Speaker - Kanhaiya Lal Chaurasiya at YNU International Symposium 2022" numbered="true" >}}
 
 ### Event gallery
-{{< gallery album="album" >}}
+{{< gallery album="ynu" >}}
