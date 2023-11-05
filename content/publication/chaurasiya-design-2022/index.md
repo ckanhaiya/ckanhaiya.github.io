@@ -26,9 +26,11 @@ links:
 - name: URL
   url: https://www.nature.com/articles/s41598-022-14848-w
 ---
-![screen reader text](cover.jpg "caption")
 
-## Abstract
+## "From Fibre to Force!"
+Our latest research on the Design and Development of Bio-inspired Shape Memory Alloy-based Artificial Muscle for Medical and Space Robots has been published with Nature Portfolio Springer Nature Group in Scientific Reports.
+
+### Abstract
 Actuators are ubiquitous to generate controlled motion through
   the application of suitable excitation force or torque to perform various operations
   in manufacturing and industrial automation. The demands placed on faster, smaller,
