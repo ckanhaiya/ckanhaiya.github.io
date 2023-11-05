@@ -2,7 +2,7 @@
 title: Design and development of non-magnetic hierarchical actuator powered by shape
   memory alloy based bipennate muscle
 authors:
-- Kanhaiya Lal Chaurasiya
+- admin
 - A. Sri Harsha
 - Yashaswi Sinha
 - Bishakh Bhattacharya

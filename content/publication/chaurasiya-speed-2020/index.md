@@ -1,7 +1,7 @@
 ---
 title: Speed Control System for Pipe Health Monitoring Robot
 authors:
-- Kanhaiya Lal Chaurasiya
+- admin
 - Bishakh Bhattacharya
 - S. Barathy
 - Sanjeev Kumar

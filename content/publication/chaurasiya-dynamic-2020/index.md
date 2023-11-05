@@ -1,7 +1,7 @@
 ---
 title: Dynamic modeling of a cabin pressure control system
 authors:
-- Kanhaiya Lal Chaurasiya
+- admin
 - Bishakh Bhattacharya
 - Ak Varma
 - Sarthak Rastogi

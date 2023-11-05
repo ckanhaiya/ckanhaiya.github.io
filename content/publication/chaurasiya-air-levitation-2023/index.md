@@ -2,7 +2,7 @@
 title: Air-Levitation based Hyperloop Transporting System with Robot Vehicle for Transporting
   Goods
 authors:
-- Kanhaiya Lal Chaurasiya
+- admin
 - Shivam Gupta
 - Bishakh Bhattacharya
 - Gautam Biswas

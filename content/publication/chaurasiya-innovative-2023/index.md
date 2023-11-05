@@ -2,7 +2,7 @@
 title: An innovative method and apparatus for speed control of pipe health monitoring
   robot during gas pipeline inspection
 authors:
-- Kanhaiya Lal Chaurasiya
+- admin
 - Varun Pawar
 - Bishakh Bhattacharya
 date: '2023-04-01'

@@ -3,7 +3,7 @@ title: An innovative approach towards defect detection and localization in gas p
   using integrated in-line inspection methods
 authors:
 - Santhakumar Sampath
-- Kanhaiya Lal Chaurasiya
+- admin
 - Pouria Aryan
 - Bishakh Bhattacharya
 date: '2021-06-01'

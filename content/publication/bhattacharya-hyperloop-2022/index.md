@@ -2,7 +2,7 @@
 title: Hyperloop Transporting System with Robot Vehicle for Transporting Goods
 authors:
 - Bishakh Bhattacharya
-- Kanhaiya Lal Chaurasiya
+- admin
 - Yashaswi Sinha
 date: '2022-12-01'
 publishDate: '2023-11-05T09:36:24.712200Z'

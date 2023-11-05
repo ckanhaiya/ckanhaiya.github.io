@@ -3,7 +3,7 @@ title: An Actuator for a Valve
 authors:
 - Bishakh Bhattacharya
 - Kapil Das Sahu
-- Kanhaiya Lal Chaurasiya
+- admin
 - Ujjain Kumar Bidila
 - P Mani Kumar
 date: '2021-01-01'

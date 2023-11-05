@@ -4,7 +4,7 @@ title: Bipennate Muscle Architecture-based Shape Memory Alloy Embedded Hierarchi
 authors:
 - Bishakh Bhattacharya
 - A Sri Harsha
-- Kanhaiya Lal Chaurasiya
+- admin
 date: '2022-12-01'
 publishDate: '2023-11-05T09:36:24.691385Z'
 publication_types:

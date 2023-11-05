@@ -3,7 +3,7 @@ title: Design and development of novel rotary actuation system based on shape me
   alloy springs driven mechanism arranged in bipennate muscle architecture
 authors:
 - Yashaswi Sinha
-- Kanhaiya Lal Chaurasiya
+- admin
 - Yash Ashok Kumar Patel
 - Tanuj Gupta
 - Bishakh Bhattacharya
