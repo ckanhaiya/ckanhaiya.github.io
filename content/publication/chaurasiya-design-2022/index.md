@@ -16,12 +16,20 @@ doi: 10.1038/s41598-022-14848-w
 # Display this page in the Featured widget?
 featured: true
 
-image:
-  caption: 'From Fibre to Force!'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'From Fibre to Force!'
+#   focal_point: ''
+#   preview_only: false
 
-abstract: Abstract Actuators are ubiquitous to generate controlled motion through
+abstract:  
+links:
+- name: URL
+  url: https://www.nature.com/articles/s41598-022-14848-w
+---
+![screen reader text](cover.jpg "caption")
+
+## Abstract
+Actuators are ubiquitous to generate controlled motion through
   the application of suitable excitation force or torque to perform various operations
   in manufacturing and industrial automation. The demands placed on faster, smaller,
   and efficient actuators drive innovation in actuator development. Shape memory alloy
@@ -39,7 +47,3 @@ abstract: Abstract Actuators are ubiquitous to generate controlled motion throug
   for further amplification of actuation forces. The SMA-based bipennate muscle actuator
   has broad applications ranging from building automation controls to precise drug
   delivery systems.
-links:
-- name: URL
-  url: https://www.nature.com/articles/s41598-022-14848-w
----
