@@ -48,9 +48,9 @@ footer:
     notice: '© {year} Kanhaiya Lal Chaurasiya'
     # notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: false #true
+      enable: true
       allow_derivatives: false
-      share_alike: false #true
+      share_alike: true
       allow_commercial: false
 
 # Localization

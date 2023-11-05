@@ -43,12 +43,12 @@ projects: []
 {{< tweet user="IITKanpur" id="1656999150377127937" >}}
 
 
-Heartiest Congratulations to Mr. Kanhaiya Lal Chaurasiya and Mr. Yashaswi Sinha from the Department of Mechanical Engineering for being awarded the WINNER under the **ISSS Technology Award 2022** category constituted by [Institute for Smart Structures and Systems (ISSS)](https://isssonline.in/), a professional society at Indian Institute of Science (IISc) Bangalore.
+Heartiest Congratulations to Mr. {{% mention "admin" %}} and Mr. Yashaswi Sinha from the Department of Mechanical Engineering for being awarded the WINNER under the **ISSS Technology Award 2022** category constituted by [Institute for Smart Structures and Systems (ISSS)](https://isssonline.in/), a professional society at Indian Institute of Science (IISc) Bangalore.
 
 The team has worked with [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/smss/#about) and got this award for their innovation on **"Bio-inspired shape memory alloy based artificial muscle actuator for medical and space robots application."**
 
 This Technology Award is designed for scientists/engineers who undertake major initiatives to commercialize a product in the area of micro and smart systems.
 
-{{%/* callout note */%}}
+{{% callout note %}}
 ## [ISSS Technology Award 2022 - Results](https://isssonline.in/isss-awards-2022/)
-{{%/* /callout */%}}
+{{% /callout %}}
