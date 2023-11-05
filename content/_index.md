@@ -77,7 +77,7 @@ sections:
           location: Kanpur, India
           date_start: '2019-04-01'
           date_end: 
-          description: 
+          description: ABCD
 
         - title: Senior Manager
           company: Tata Motors
@@ -86,7 +86,7 @@ sections:
           location: Pune, India
           date_start: '2016-09-01'
           date_end: '2019-03-31'
-          description: 
+          description: ABCD
 
         - title: Summer Intern
           company: Whirlpool Corporation
@@ -95,7 +95,7 @@ sections:
           location: Pune, India
           date_start: '2014-05-01'
           date_end: '2014-06-30'
-          description: 
+          description: ABCD
     design:
       columns: '2'
   # - block: accomplishments
