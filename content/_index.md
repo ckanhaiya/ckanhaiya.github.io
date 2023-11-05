@@ -83,7 +83,7 @@ sections:
         - title: Senior Manager
           company: Tata Motors
           company_url: ''
-          company_logo: org-x
+          company_logo: tml
           location: Pune, India
           date_start: '2016-09-01'
           date_end: '2019-03-30'
