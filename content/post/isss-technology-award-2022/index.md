@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ISSS Technology Award-2022 jontly awarded to Kanhaiya Lal Chaurasiya and Yashaswi Sinha
+title: ISSS Technology Award - 2022 jontly awarded to Kanhaiya Lal Chaurasiya and Yashaswi Sinha
 
 #subtitle: ''
 
@@ -27,10 +27,10 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 
-# image:
-#   caption: ''
-#   focal_point: ''
-#   preview_only: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -38,15 +38,20 @@ featured: false
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 
-# projects: []
+projects: []
 ---
 {{< tweet user="IITKanpur" id="1656999150377127937" >}}
 
 
 Heartiest Congratulations to Mr. Kanhaiya Lal Chaurasiya and Mr. Yashaswi Sinha from the Department of Mechanical Engineering for being awarded the WINNER under the **ISSS Technology Award 2022** category constituted by [Institute for Smart Structures and Systems (ISSS)](https://isssonline.in/), a professional society at Indian Institute of Science (IISc) Bangalore.
 
-Mr. Kanhaiya (Senior Project Scientist) and Mr. Yashaswi (Project Engineer) have worked with [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/smss/#about) and got this award for their innovation on **"Bio-inspired shape memory alloy based artificial muscle actuator for medical and space robots application."**
+The team has worked with [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/smss/#about) and got this award for their innovation on **"Bio-inspired shape memory alloy based artificial muscle actuator for medical and space robots application."**
 
 This Technology Award is designed for scientists/engineers who undertake major initiatives to commercialize a product in the area of micro and smart systems.
 
-You may read more about the award on [ISSS Technology Award](https://isssonline.in/isss-awards-2022/).
+```markdown
+{{%/* callout note */%}}
+## [ISSS Technology Award 2022 - Results](https://isssonline.in/isss-awards-2022/)
+{{%/* /callout */%}}
+```
+
