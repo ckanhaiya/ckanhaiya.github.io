@@ -76,7 +76,7 @@ sections:
           company_logo: whirlpool
           location: Kanpur, India
           date_start: '2019-04-01'
-          date_end: 
+          date_end: ''
           description: ABCD
 
         - title: Senior Manager
