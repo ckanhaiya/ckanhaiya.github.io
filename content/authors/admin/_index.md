@@ -35,10 +35,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MTech (Dual Degree) in Mechanical Engineering
+    - course: M.Tech. (Dual-Degree) in Mechanical Engineering
       institution: Indian Institute of Technology Kanpur
       year: 2015-16
-    - course: BTech (Dual Degree) in Mechanical Engineering
+    - course: B.Tech. (Dual-Degree) in Mechanical Engineering
       institution: Indian Institute of Technology Kanpur
       year: 2011-15
 
