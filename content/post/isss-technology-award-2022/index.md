@@ -49,9 +49,6 @@ The team has worked with [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/sms
 
 This Technology Award is designed for scientists/engineers who undertake major initiatives to commercialize a product in the area of micro and smart systems.
 
-```markdown
 {{%/* callout note */%}}
 ## [ISSS Technology Award 2022 - Results](https://isssonline.in/isss-awards-2022/)
 {{%/* /callout */%}}
-```
-
