@@ -70,23 +70,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-          - title: Senior Project Scientist
-          company: Indian Institute of Technology (IIT) Kanpur
-          company_url: ''
-          company_logo: whirlpool
-          location: Kanpur, India
-          date_start: '2019-04-01'
-          date_end: ''
-          description: ABCD
 
-        - title: Senior Manager
-          company: Tata Motors
-          company_url: ''
-          company_logo: whirlpool
-          location: Pune, India
-          date_start: '2016-09-01'
-          date_end: '2019-03-31'
-          description: ABCD
 
         - title: Summer Intern
           company: Whirlpool Corporation
