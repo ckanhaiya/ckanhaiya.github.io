@@ -18,4 +18,5 @@ abstract: A bipennate muscle architecture-based shape memory alloy embedded hier
   support arrangement of bias springs (112). The left fixture (102) is configured
   to hold one end of the plurality of SMA wires (110) using a plurality of terminal
   crimps (118).
+  publication: 'Patent Number : 414106'
 ---

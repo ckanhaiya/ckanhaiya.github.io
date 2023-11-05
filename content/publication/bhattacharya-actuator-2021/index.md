@@ -20,7 +20,7 @@ abstract: An assembly includes a frame configured to couple to a valve, an actua
   a dimensional transformation, the one or more SMA elements are configured to operate
   against the biasing member to bias the actuating arm in a second direction opposite
   the first direction relative to the frame.
-publication: Application Number - 202011016379
+publication: 'Application Number : PCT/US2022/041899'
 links:
 - name: URL
   url: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023034215

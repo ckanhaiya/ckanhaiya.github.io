@@ -23,4 +23,5 @@ abstract: An air-levitation based hyperloop transporting system (100) for transp
   for accelerating the robot vehicles (104) in a direction of a second fluid flow
   (120) within the pipelines (102), by applying the second fluid flow (120) with the
   second predefined pressure across the pipelines (102).
+  publication: 'Application Number : 202311068306'
 ---
