@@ -72,6 +72,16 @@ sections:
       items:
 
 
+
+        - title: Senior Manager
+          company: Tata Motors
+          company_url: ''
+          company_logo: org-x
+          location: Pune, India
+          date_start: '2016-09-01'
+          date_end: '2019-03-30'
+          description: ABCD
+
         - title: Summer Intern
           company: Whirlpool Corporation
           company_url: ''
