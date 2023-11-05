@@ -88,8 +88,8 @@ sections:
           date_start: '2016-09-01'
           date_end: '2019-03-30'
           description: |2-
-          * Conducted multibody modeling and vehicle dynamics simulations for Futuristic Infantry Combat Vehicle (FICV) and resolved infield failures in commercial vehicle interiors. Collaborated on acoustic and thermal solutions.
-          * Led a team to implement technology development projects across vehicle platforms, specializing in project management, design, resource allocation, and stakeholder communication.
+              * Conducted multibody modeling and vehicle dynamics simulations for Futuristic Infantry Combat Vehicle (FICV) and resolved infield failures in commercial vehicle interiors. Collaborated on acoustic and thermal solutions.
+              * Led a team to implement technology development projects across vehicle platforms, specializing in project management, design, resource allocation, and stakeholder communication.
 
         - title: Summer Intern
           company: Whirlpool Corporation
@@ -99,8 +99,8 @@ sections:
           date_start: '2014-05-01'
           date_end: '2014-06-30'
           description: |2-
-          * Studied Gyroscopic Effect in end spinning of drum-type washing machine and performed dynamic modeling of washer in MATLAB Simulink.
-          * Proposed a novel design having an increment in maximum end-spin velocity by 250 RPM leading to a decrease in drying time compared to benchmarked products.
+              * Studied Gyroscopic Effect in end spinning of drum-type washing machine and performed dynamic modeling of washer in MATLAB Simulink.
+             * Proposed a novel design having an increment in maximum end-spin velocity by 250 RPM leading to a decrease in drying time compared to benchmarked products.
     design:
       columns: '2'
   # - block: accomplishments
