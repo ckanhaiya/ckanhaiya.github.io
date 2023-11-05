@@ -203,7 +203,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="klc" >}}
     design:
       columns: '1'
   - block: collection
