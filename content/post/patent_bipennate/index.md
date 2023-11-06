@@ -39,13 +39,20 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+{{< figure src="product.jpg">}}
+
+Super excited to announce the grant of my first patent on a **“Bipennate Muscle Architecture based SMA Actuator.”** The research team, under the guidance of [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/smss/#about), has expanded the design space of the SMA actuator by leveraging the characteristics of bi-pennate muscle architecture with about 70% enhanced muscle force output per unit weight.
+
+The invention is best suited to cater to the industry demand in the field of miniature, lightweight, non-magnetic gear-free actuators with an excellent power-to-weight ratio as a suitable alternative to conventional actuation systems. 
+
+It has broad applications ranging from building automation controls and bionic autonomous underwater vehicles to healthcare robotics. The use of the technology will foster higher utilization rates for a broad-band of gripping force and hence a better cost-benefit ratio. This will create a new class of Space Robots that will reinforce Indian Space Technology.
 
 {{< cite page="/publication/bhattacharya-bipennate-2022" view="4" >}}
 
 ### Patent Certificate
 
 {{< figure src="featured.jpg">}}
-{{< figure src="product.jpg">}}
+
 
 {{% callout note %}}
 For more details, please visit:
