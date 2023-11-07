@@ -45,7 +45,7 @@ Recently, I got an opportunity to participate in the [Invest UP 2023](https://ww
 
 We showcased some of our lab cutting-edge innovations and technologies developed pertaining to "Emerging avenues of Pipe Following Robot: From Structural Health Monitoring to Cargo Mobility Solutions."
 
-Read more about our innovation on cargo hyperloop-based transportation systems. Media Coverage: [Financial Express (India)](https://lnkd.in/dRspXxmk)
+Read more about our innovation on cargo hyperloop-based transportation systems. Media Coverage: [Financial Express (India)](https://www.financialexpress.com/infrastructure/iit-kanpur-team-develops-cargo-hyperloop-based-transportation-system/2987190/)
 
 
 ### Media Gallery
