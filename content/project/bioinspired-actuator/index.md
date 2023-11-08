@@ -31,19 +31,21 @@ url_video: ''
 # slides: example
 ---
 
-
+## Abstract
 Integrating bio-inspired design principles into smart actuator development could bring forth the next generation of adaptive, light weight, economic and energy efficient smart material-based actuation systems. Increasing industrial demand for such new class of actuators over conventional electromagnetic systems which have limited efficiency, bulky size, complex architecture due to in-built gear-train mechanisms, and high production and amortization costs, drives the innovation in new actuator development. In response to the need, there is an emphasis on the development of cost-effective, scalable, and next-generation driving principle-based actuators powered by smart materials. Shape memory alloys (SMA) have emerged as attractive candidate due to their unique characteristics, such as high force-to-weight ratio, noiseless operation, scalability for miniaturization and muscle-like motion, with the potential to develop novel actuation for biomedical, space, and robotic applications. SMA actuators have been thoroughly investigated for their potential integration into robotic hands, arms, and manipulators. However, relatively long cooling times to retransform from austenite to martensite state hinders their use for fast and rapid cyclic operations.
 
-{{< spoiler text="Objectives" >}}
--	Design and development of scalable and modular shape memory alloy (SMA) based novel actuation mechanism based on bipennate muscle architecture for fast cyclic applications
--	Active feedback system using SMA as a self-sensing element based on LSTM (Long short-term memory) based-RL (Reinforcement Learning) control architecture
--	Integration of evaporative cooling method for obtaining high actuation frequency of SMA-based agonist-antagonistic system
--	Analytical modelling and simulation of the actuation system, design optimization and experimental validation of the model
-{{< /spoiler >}}
+## Objectives
+|  | Objectives |
+|---|---|
+| - | Design and development of scalable and modular shape memory alloy (SMA) based novel actuation mechanism based on bipennate muscle architecture for fast cyclic applications |
+| - | Active feedback system using SMA as a self-sensing element based on LSTM (Long short-term memory) based-RL (Reinforcement Learning) control architecture |
+| - | Integration of evaporative cooling method for obtaining high actuation frequency of SMA-based agonist-antagonistic system |
+| - | Analytical modelling and simulation of the actuation system, design optimization and experimental validation of the model |
+
 
 {{< figure src="jci.jpg">}}
 
-{{< video src="JCI-IITK_Actuator.mp4" controls="no" >}}
+{{< video src="JCI-IITK_Actuator.mp4" >}}
 
 {{< figure src="simulation-model.jpg">}}
 
