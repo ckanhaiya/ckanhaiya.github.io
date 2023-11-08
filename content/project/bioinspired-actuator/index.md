@@ -43,7 +43,7 @@ Integrating bio-inspired design principles into smart actuator development could
 
 {{< figure src="jci.jpg">}}
 
-{{< video src="JCI-IITK_Actuator.mp4" controls="yes" >}}
+{{< video src="JCI-IITK_Actuator.mp4" controls="no" >}}
 
 {{< figure src="simulation-model.jpg">}}
 
