@@ -53,7 +53,7 @@ Integrating bio-inspired design principles into smart actuator development could
 
 {{< figure src="ap.jpg" caption="Signal Conditioning Circuit for SMA based self-sensing" numbered="true">}}
 
-{{% staticref "uploads/cNSR-Bipennate-Muscle-SMA-Actuator.pdf" "newtab" %}}Bioinspired SMA based Artifical Muscle - Poster{{% /staticref %}}
+{{% staticref "uploads/NSR-Bipennate-Muscle-SMA-Actuator.pdf" "newtab" %}}Bioinspired SMA based Artifical Muscle - Poster{{% /staticref %}}
 
 ### Peer Reviewed Articles
 {{< cite page="/publication/chaurasiya-design-2022" view="4" >}}
