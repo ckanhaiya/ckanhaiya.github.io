@@ -1,9 +1,17 @@
 ---
 title: Bioinspired SMA based Actuator
 summary: Integrating bio-inspired design principles into next generation of adaptive and energy efficient shape memory alloy-based actuation systems
+
 tags:
   - Shape Memory Alloy
   - Bioinspired System
+
+authors: 
+  - admin
+  - Yashaswi Sinha
+  - A Sri Harsha
+  - Prof. Bishakh Bhattacharya
+
 date: '2021-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

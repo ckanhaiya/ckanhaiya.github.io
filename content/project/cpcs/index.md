@@ -3,6 +3,11 @@ title: Cabin Pressure Control System (CPCS)
 
 summary: Dynamic modeling of a cabin pressure control system for a multirole fighter aircraft
 
+authors: 
+  - admin
+  - Prof. Bishakh Bhattacharya
+  - Prof. Arun Kumar Varma
+
 tags:
   - Fluid Mechanics
 

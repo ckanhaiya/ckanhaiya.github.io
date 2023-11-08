@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Pipe Health Monitoring Robot (PHMR)
+summary: Design and Development df Pipeline Health Monitoring Robot for Gas Transportation Pipelines
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
