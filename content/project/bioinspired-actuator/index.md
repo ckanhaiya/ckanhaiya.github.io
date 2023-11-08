@@ -13,8 +13,6 @@ image:
   caption: Bipenniform Muscle Inspiration
   focal_point: Smart
 
-text-align: justify;
-
 # links:
 #   - icon: twitter
 #     icon_pack: fab
