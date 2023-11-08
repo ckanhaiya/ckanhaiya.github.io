@@ -1,9 +1,9 @@
 ---
 title: Bioinspired SMA based Actuator
-summary: Integrating bio-inspired design principles into next generation of adaptive and energy efficientshape memory alloy-based actuation systems
+summary: Integrating bio-inspired design principles into next generation of adaptive and energy efficient shape memory alloy-based actuation systems
 tags:
-  - Smart Material
-  - Bioinspired
+  - Shape Memory Alloy
+  - Bioinspired System
 date: '2021-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -12,6 +12,8 @@ external_link: ''
 image:
   caption: Bipenniform Muscle Inspiration
   focal_point: Smart
+
+text-align: justify;
 
 # links:
 #   - icon: twitter
@@ -35,7 +37,7 @@ url_video: ''
 Integrating bio-inspired design principles into smart actuator development could bring forth the next generation of adaptive, light weight, economic and energy efficient smart material-based actuation systems. Increasing industrial demand for such new class of actuators over conventional electromagnetic systems which have limited efficiency, bulky size, complex architecture due to in-built gear-train mechanisms, and high production and amortization costs, drives the innovation in new actuator development. In response to the need, there is an emphasis on the development of cost-effective, scalable, and next-generation driving principle-based actuators powered by smart materials. Shape memory alloys (SMA) have emerged as attractive candidate due to their unique characteristics, such as high force-to-weight ratio, noiseless operation, scalability for miniaturization and muscle-like motion, with the potential to develop novel actuation for biomedical, space, and robotic applications. SMA actuators have been thoroughly investigated for their potential integration into robotic hands, arms, and manipulators. However, relatively long cooling times to retransform from austenite to martensite state hinders their use for fast and rapid cyclic operations.
 
 ## Objectives
-|  | Objectives |
+|  | Project Milestones |
 |---|---|
 | - | Design and development of scalable and modular shape memory alloy (SMA) based novel actuation mechanism based on bipennate muscle architecture for fast cyclic applications |
 | - | Active feedback system using SMA as a self-sensing element based on LSTM (Long short-term memory) based-RL (Reinforcement Learning) control architecture |
@@ -43,13 +45,15 @@ Integrating bio-inspired design principles into smart actuator development could
 | - | Analytical modelling and simulation of the actuation system, design optimization and experimental validation of the model |
 
 
-{{< figure src="jci.jpg">}}
+{{< figure src="jci.jpg" caption="Bioinspired SMA-based Linear Actuator for building control and automation operations" numbered="true" >}}
 
-{{< video src="JCI-IITK_Actuator.mp4" >}}
+{{< video src="JCI-IITK_Actuator.mp4" controls="yes">}}
 
-{{< figure src="simulation-model.jpg">}}
+{{< figure src="simulation-model.jpg" caption="Simulation output of the temperature distribution as well as the stress-induced transition temperature of the SMA-based bipennate actuator. A Simulink block diagram of the mathematical model for a bipennate-based SMA linear actuator." numbered="true" >}}
 
-{{< figure src="nsr-poster.jpg">}}
+{{< figure src="ap.jpg" caption="Signal Conditioning Circuit for SMA based self-sensing" numbered="true">}}
+
+{{% staticref "uploads/cNSR-Bipennate-Muscle-SMA-Actuator.pdf" "newtab" %}}Bioinspired SMA based Artifical Muscle - Poster{{% /staticref %}}
 
 ### Peer Reviewed Articles
 {{< cite page="/publication/chaurasiya-design-2022" view="4" >}}
