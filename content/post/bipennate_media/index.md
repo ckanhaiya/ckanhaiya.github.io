@@ -95,5 +95,6 @@ _This invention will not only result in the development of Next Gen Space Robots
 {{< cite page="/publication/chaurasiya-design-2022" view="4" >}}
 
 {{% callout note %}}
-[Bioinspired SMA based Actuator]({{< relref "/project/bioinspired-actuator" >}})
+For more details, please visit:
+- ### [Bioinspired SMA based Actuator]({{< relref "/project/bioinspired-actuator" >}})
 {{% /callout %}}

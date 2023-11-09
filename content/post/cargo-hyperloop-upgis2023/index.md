@@ -47,11 +47,10 @@ We showcased some of our lab cutting-edge innovations and technologies developed
 
 Read more about our innovation on cargo hyperloop-based transportation systems. Media Coverage: [Financial Express (India)](https://www.financialexpress.com/infrastructure/iit-kanpur-team-develops-cargo-hyperloop-based-transportation-system/2987190/)
 
+{{% callout note %}}
+For more details, please visit:
+- ### [Cargo-Hyperloop Mobility System]({{< relref "/project/cargo-hyperloop" >}})
+{{% /callout %}}
 
 ### Media Gallery
 {{< gallery album="cargo-hyperloop-upgis2023" >}}
-
-
-{{% callout note %}}
-- ### [Cargo-Hyperloop Mobility System]({{< relref "/project/cargo-hyperloop" >}})
-{{% /callout %}}
