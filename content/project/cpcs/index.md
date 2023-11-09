@@ -51,5 +51,5 @@ Cabin pressurization is a physiological requirement for pilots and passengers fl
 
 The cabin pressurization control law for a multirole light fighter/trainer aircraft is shown in Figure 2. Taking the structural limitations of the aircraft into consideration, it depicts the way in which cabin altitude (cabin pressure) must vary with aircraft altitude (external ambient pressure) in order to provide appropriate cabin environmental conditions for survival and comfort of pilot and co-pilot based on the physiological requirements.
 
-### Peer Reviewed Article
+### Peer-reviewed Article
 {{< cite page="/publication/chaurasiya-dynamic-2020" view="4" >}}

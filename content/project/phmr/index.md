@@ -52,7 +52,7 @@ The project was divided into various phases each with specific objectives. The f
 
 {{< youtube _mxl4VPkV1A >}}
 
-### Peer Reviewed Article
+### Peer-reviewed Article
 {{< cite page="/publication/sampath-innovative-2021" view="4" >}}
 
 ### Patent

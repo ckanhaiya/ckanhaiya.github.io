@@ -90,10 +90,10 @@ _This invention will not only result in the development of Next Gen Space Robots
 ### Media Gallery
 {{< gallery album="bipennate_media" >}}
 
-### Journal Article
+### Peer-reviewed Article
 
 {{< cite page="/publication/chaurasiya-design-2022" view="4" >}}
 
 {{% callout note %}}
-For more details, please visit https://www.iitk.ac.in/smss/projects/smaact/
+[Bioinspired SMA based Actuator]({{< relref "/project/bioinspired-actuator" >}})
 {{% /callout %}}

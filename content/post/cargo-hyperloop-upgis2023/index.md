@@ -53,6 +53,5 @@ Read more about our innovation on cargo hyperloop-based transportation systems. 
 
 
 {{% callout note %}}
-For more details, please visit
-- ### [Cargo Hyperloop Mobility System](https://www.iitk.ac.in/smss/projects/phmr/)
+- ### [Cargo-Hyperloop Mobility System]({{< relref "/project/cargo-hyperloop" >}})
 {{% /callout %}}

@@ -61,7 +61,7 @@ Integrating bio-inspired design principles into smart actuator development could
 
 {{% staticref "uploads/NSR-Bipennate-Muscle-SMA-Actuator.pdf" "newtab" %}}Bioinspired SMA based Artifical Muscle - Poster{{% /staticref %}}
 
-### Peer Reviewed Articles
+### Peer-reviewed Article
 {{< cite page="/publication/chaurasiya-design-2022" view="4" >}}
 
 ### Patents

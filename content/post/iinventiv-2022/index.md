@@ -55,5 +55,5 @@ projects: []
 
 {{% callout note %}}
 For more details, please visit
-- ### [Pipe Health Monitoring Robot (PHMR)](https://www.iitk.ac.in/smss/projects/phmr/)
+- ### [Pipe Health Monitoring Robot (PHMR)]({{< relref "/project/phmr" >}})
 {{% /callout %}}

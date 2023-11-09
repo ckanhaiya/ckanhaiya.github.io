@@ -38,6 +38,6 @@ The traditional transportation system of industrial raw materials such as like c
 
 {{< figure src="cargo-poc.jpg" caption="A proof-of-concept model of a pipe-following modular robotic system driven by compressed air in a controlled testbed" numbered="true" >}}
 
-### Patent
+### Patents
 {{< cite page="/publication/bhattacharya-hyperloop-2022" view="4" >}}
 {{< cite page="/publication/chaurasiya-air-levitation-2023" view="4" >}}

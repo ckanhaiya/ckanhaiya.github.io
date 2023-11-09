@@ -56,5 +56,5 @@ It has broad applications ranging from building automation controls and bionic a
 
 {{% callout note %}}
 For more details, please visit:
-- ### [Bioinspired SMA Actuator](https://www.iitk.ac.in/smss/projects/smaact/)
+- ### [Bioinspired SMA based Actuator]({{< relref "/project/bioinspired-actuator" >}})
 {{% /callout %}}
