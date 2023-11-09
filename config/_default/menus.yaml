@@ -22,12 +22,12 @@ main:
   - name: Gallery
     url: '#gallery'
     weight: 50
+  - name: CV
+    url: https://ckanhaiya.github.io/uploads/resume.pdf
+    weight: 55
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: ABC
-    url: https://ckanhaiya.github.io/uploads/resume.pdf
-    weight: 65
 #  -  name: CV
 #     url: uploads/NSR-Bipennate-Muscle-SMA-Actuator.pdf
 #     weight: 65
