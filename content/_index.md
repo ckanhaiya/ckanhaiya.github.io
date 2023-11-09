@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2023-11-01
 type: landing
 
 sections:
@@ -70,7 +70,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
         - title: Senior Project Scientist
           company: Indian Institute of Technology (IIT) Kanpur
           company_url: ''
@@ -79,7 +78,7 @@ sections:
           date_start: '2019-04-01'
           date_end: ''
           description: |2-
-              * Leading the development of noel projects via project initiation, planning, & execution phases.
+              * Leading the development of novel projects via project initiation, planning, & execution phases.
               * Drafting of research proposal to various sponsoring agencies, mentoring undergraduate and graduate students in their respective projects and thesis.
 
         - title: Senior Manager
@@ -101,7 +100,7 @@ sections:
           date_start: '2014-05-01'
           date_end: '2014-06-30'
           description: |2-
-              * Studied Gyroscopic Effect in end spinning of drum-type washing machine and performed dynamic modeling of washer in MATLAB Simulink.
+             * Studied Gyroscopic Effect in end spinning of drum-type washing machine and performed dynamic modeling of washer in MATLAB Simulink.
              * Proposed a novel design having an increment in maximum end-spin velocity by 250 RPM leading to a decrease in drying time compared to benchmarked products.
     design:
       columns: '2'
@@ -185,16 +184,16 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
