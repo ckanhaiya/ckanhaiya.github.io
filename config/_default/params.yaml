@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
- # theme_night: minimal
+  theme_night: minimal
   font: minimal
   font_size: L
 
@@ -37,7 +37,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false # true
     show_search: true
     highlight_active_link: true
 
@@ -48,9 +48,9 @@ footer:
     notice: '© {year} Kanhaiya Lal Chaurasiya'
     # notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false # true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false # true
       allow_commercial: false
 
 # Localization
