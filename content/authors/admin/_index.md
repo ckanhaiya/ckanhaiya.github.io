@@ -32,7 +32,7 @@ interests:
   - Shape Memory Alloy
   - Actuators and Control
   - Structural Health Monitoring
-  - Fluid Mechcanics
+  - Fluid Mechanics
 
 # Education to show in About widget
 education:
