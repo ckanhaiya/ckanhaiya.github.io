@@ -51,3 +51,5 @@ This Technology Award is designed for scientists/engineers who undertake major i
 {{% callout note %}}
 ### [ISSS Technology Award 2022 - Results](https://isssonline.in/isss-awards-2022/)
 {{% /callout %}}
+
+{{< gallery album="isss-technology-award-2022" >}}
