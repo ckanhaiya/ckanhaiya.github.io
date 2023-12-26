@@ -42,6 +42,8 @@ projects: []
 ---
 {{< tweet user="IITKanpur" id="1656999150377127937" >}}
 
+{{< gallery album="isss-technology-award-2022" >}}
+
 Honoured to receive [ISSS Technology Award 2022](https://isssonline.in/isss-awards-2022/) jointly with [Yashaswi Sinha](https://www.linkedin.com/in/yashaswi-sinha-605483128/) for our innovation on a **"Bioinspired SMA-based artificial muscle actuator"** constituted by Institute for Smart Structures and Systems (ISSS). 
 
 As the nation celebrates **"National Technology Day,"** there could not have been a better moment for us to receive this esteemed award. I would like to express my heartfelt gratitude to our mentor, [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/smss/#about), who played a pivotal role in our success and encouraged us to strive for excellence in our area of expertise.
@@ -52,4 +54,4 @@ This Technology Award is designed for scientists/engineers who undertake major i
 ### [ISSS Technology Award 2022 - Results](https://isssonline.in/isss-awards-2022/)
 {{% /callout %}}
 
-{{< gallery album="isss-technology-award-2022" >}}
+
