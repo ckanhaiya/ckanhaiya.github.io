@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Indian Patent Granted (December-2022)
+title: SMA Bipennate Muscle Actuator - Patent Granted (December-2022)
 # subtitle: ""
 summary: Bipennate Muscle Architecture-based Shape Memory Alloy Embedded Hierarchical Actuator
 authors: 

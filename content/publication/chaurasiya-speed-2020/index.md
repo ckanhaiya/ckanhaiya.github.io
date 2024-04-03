@@ -20,5 +20,5 @@ abstract: The invention discloses a speed control system for Pipe Health Monitor
   inside the gas pipeline. This will help in effective, accurate and seamless inspection
   of the gas pipelines spread over a large network area.
 
-publication: 'Application Number - 202011016379'
+publication: 'Patent Number - 517151'
 ---
