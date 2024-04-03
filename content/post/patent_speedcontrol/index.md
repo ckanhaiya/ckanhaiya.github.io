@@ -43,7 +43,7 @@ projects: []
 ---
 {{< figure src="product.jpg">}}
 
-Delighted to share the news of receiving #patent grant for our **"Novel speed control system for pipeline inspection gauges"**. The system works on the principle of deflector bypass flow and hydraulic brake mechanisms. Being modular in nature, it can be attached to any wheel suspension assembly-based inspection gauge. The system is operated without a power supply, making it highly safe while operating in inflammable gas pipelines spread over a large area of the pipeline network.
+Delighted to share the news of receiving patent grant for our **"Novel speed control system for pipeline inspection gauges"**. The system works on the principle of deflector bypass flow and hydraulic brake mechanisms. Being modular in nature, it can be attached to any wheel suspension assembly-based inspection gauge. The system is operated without a power supply, making it highly safe while operating in inflammable gas pipelines spread over a large area of the pipeline network.
 
 The research and development was carried out under the supervision of [Prof. Bishakh Bhattacharya](https://www.iitk.ac.in/smss/#about), IIT Kanpur. For licensing related queries, you may kindly reach out to [Tech Transfer @IITK](https://www.linkedin.com/company/tech-transfer-iitk/)
 
