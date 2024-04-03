@@ -78,7 +78,8 @@ sections:
           date_start: '2019-04-01'
           date_end: ''
           description: |2-
-              * Leading the development of novel projects via project initiation, planning, & execution phases.
+              * Conducting R&D activities in various fields relevant to transportation systems and mechanical engineering, including cargo hyperloop systems, smart materials, & structural health monitoring. 
+              * Leading the development of novel projects via project initiation, planning, & execution phases within allocated budgets and timelines.
               * Drafting of research proposal to various sponsoring agencies, mentoring undergraduate and graduate students in their respective projects and thesis.
 
         - title: Senior Manager
