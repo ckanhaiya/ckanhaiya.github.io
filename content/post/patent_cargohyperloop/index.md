@@ -53,7 +53,7 @@ Our research and development efforts have been expertly guided by [Prof. Bishakh
 For licensing inquiries, please reach out to [Tech Transfer @IITK](https://www.linkedin.com/company/tech-transfer-iitk/)
 
 
-{{< cite page="/publication/chaurasiya-speed-2020" view="4" >}}
+{{< cite page="/publication/bhattacharya-hyperloop-2022" view="4" >}}
 
 ### Patent Certificate
 

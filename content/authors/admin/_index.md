@@ -32,7 +32,8 @@ interests:
   - Actuators and Control
   - Bioinspired System Design
   - Structural Health Monitoring
-  - Fluid Mechanics
+  - System Engineering 
+  - New product development (NPD)
 
 # Education to show in About widget
 education:

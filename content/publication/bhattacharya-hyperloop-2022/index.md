@@ -21,5 +21,5 @@ abstract: A hyperloop transportation system (100) for transporting goods, is dis
   wheels arranged to pass on the guided rails (114) for adapting the robot vehicle
   (104) to travel within the pipeline (102).
 
-publication: 'Application Number - 202211077045'
+publication: 'Patent Number - 541539'
 ---
