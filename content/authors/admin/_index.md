@@ -16,11 +16,11 @@ highlight_name: true
 superuser: true
 
 # Role/position/tagline
-role: Senior Project Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Indian Institute of Technology (IIT) Kanpur
+  - name: Indian Institute of Science (IISc) Bangalore
     url: https://ckanhaiya.github.io/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,20 +29,24 @@ organizations:
 # Interests to show in About widget
 interests:
   - Shape Memory Alloy
+  - Mechanics of Material
+  - Machine Learning
   - Actuators and Control
+  - Data-driven Mechanics
   - Bioinspired System Design
   - Structural Health Monitoring
-  - System Engineering 
-  - New product development (NPD)
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.Tech. (Dual-Degree) in Mechanical Engineering
-      institution: Indian Institute of Technology Kanpur
+    - course: PhD in Mechanical Engineering
+      institution: Indian Institute of Science (IISc) Bangalore
+      year: 2024-28
+    - course: MTech (Dual-Degree) in Mechanical Engineering
+      institution: Indian Institute of Technology (IIT) Kanpur
       year: 2015-16
-    - course: B.Tech. (Dual-Degree) in Mechanical Engineering
-      institution: Indian Institute of Technology Kanpur
+    - course: BTech (Dual-Degree) in Mechanical Engineering
+      institution: Indian Institute of Technology (IIT) Kanpur
       year: 2011-15
 
 # Social/Academic Networking
@@ -52,7 +56,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kanhaiya@iitk.ac.in
+    link: mailto:kanhaiyac@iisc.ac.in
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -85,7 +89,11 @@ email: ''
 highlight_name: true
 ---
 
-Born and raised in [Varanasi](https://varanasi.nic.in/), the world's oldest living city nestled on the sacred banks of the _River Ganges_, my journey has been a relentless pursuit of research excellence. I currently hold the role of Senior Project Scientist in the Department of Mechanical Engineering at the Indian Institute of Technology (IIT) Kanpur. At the [Smart Materials, Structures, and Systems (SMSS) Lab](https://www.iitk.ac.in/smss/), I spearhead the development of innovative projects, including an SMA-powered Bionic Arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems.
+Born and raised in [Varanasi](https://varanasi.nic.in/), the world's oldest living city on the _River Ganges_, my journey has been one of relentless pursuit toward research excellence.  Currently, I am a doctoral candidate at [DDD Lab, IISc Bangalore](https://sites.google.com/view/3dlabformechanics), where my research focuses on utilizing cutting-edge machine learning techniques to characterize novel materials.
 
-Outside of work, I enjoy wall climbing and bouldering with the IIT Kanpur Climbing Club, participate in 5 km and 10km runs, and have a passion for floral photography.
+
+With eight years of combined industrial and research experience, I have led innovative projects at [SMSS Lab, IIT Kanpur](https://www.iitk.ac.in/smss/), including the development of an SMA-powered bionic arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems.
+
+
+Outside of work, I am passionate about wall climbing and participate in 5/10km runs. I also enjoy floral and astrophotography, capturing the beauty of nature and the cosmos.
 {style="text-align: justify;"}
