@@ -42,10 +42,10 @@ education:
     - course: PhD in Mechanical Engineering
       institution: Indian Institute of Science (IISc) Bangalore
       year: 2024-Ongoing
-    - course: MTech (Dual-Degree) in Mechanical Engineering
+    - course: MTech in Mechanical Engineering
       institution: Indian Institute of Technology (IIT) Kanpur
       year: 2015-16
-    - course: BTech (Dual-Degree) in Mechanical Engineering
+    - course: BTech in Mechanical Engineering
       institution: Indian Institute of Technology (IIT) Kanpur
       year: 2011-15
 

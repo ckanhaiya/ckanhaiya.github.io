@@ -259,7 +259,7 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: DDD Lab, Department of Mechcanical Engineering, Indian Institute of Science
+        street: DDD Lab, Department of Mechcanical Engineering, Indian Institute of Science (IISc)
         city: Bengaluru
         region: Karnataka - 
         postcode: ' 560012'
