@@ -60,7 +60,7 @@ sections:
   #         icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -76,11 +76,11 @@ sections:
           company_logo: iitk-1
           location: Kanpur, India
           date_start: '2019-04-01'
-          date_end: ''
+          date_end: '2024-08-31'
           description: |2-
-              * Conducting R&D activities in various fields relevant to transportation systems and mechanical engineering, including cargo hyperloop systems, smart materials, & structural health monitoring. 
-              * Leading the development of novel projects via project initiation, planning, & execution phases within allocated budgets and timelines.
-              * Drafting of research proposal to various sponsoring agencies, mentoring undergraduate and graduate students in their respective projects and thesis.
+              * Conducted R&D activities leading to translation of research for end-users via industrial partners in multiple fields relevant to transportation systems and mechanical engineering, including cargo hyperloop systems, smart materials, & structural health monitoring. 
+              * Drafted research proposals to various sponsoring agencies and secured a grant of $274,700. 
+              * Led the development of novel projects via project initiation, planning, & execution phases within allocated budgets and timelines.
 
         - title: Senior Manager
           company: Tata Motors
@@ -255,14 +255,14 @@ sections:
       # text: |-
         # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: kanhaiya@iitk.ac.in
+      email: kanhaiyac@iisc.ac.in
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: NL-102, Northern Laboratory 1, Department of Mechanical Engineering, IIT Kanpur
-        city: Kanpur
-        region: Uttar Pradesh - 
-        postcode: ' 208016'
+        street: DDD Lab, Department of Mechcanical Engineering, Indian Institute of Science
+        city: Bengaluru
+        region: Karnataka - 
+        postcode: ' 560012'
         country: India
         country_code: IN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -271,17 +271,17 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
        # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '26.51399'
-        longitude: '80.233947'  
+        latitude: '13.015766493942056'
+        longitude: '77.57195340887293'  
       contact_links:
       - icon: linkedin
         icon_pack: fab
         name: Connect me
         link: https://www.linkedin.com/in/klc243g/ 
-      - icon: at
-        icon_pack: fab
-        name: kanhaiya.chaurasiya@outlook.com
-        link: kanhaiya.chaurasiya@outlook.com 
+      # - icon: at
+      #   icon_pack: fab
+      #   name: kanhaiya.chaurasiya@outlook.com
+      #   link: kanhaiya.chaurasiya@outlook.com 
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
