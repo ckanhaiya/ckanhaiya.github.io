@@ -28,7 +28,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Data-driven Mechanics
+  - Data driven Mechanics
   - Machine Learning
   - Shape Memory Alloy
   - Actuators and Control
