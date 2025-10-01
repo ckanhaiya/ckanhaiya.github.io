@@ -86,10 +86,12 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+<!-- # Born and raised in [Varanasi](https://varanasi.nic.in/), the world's oldest living city on the _River Ganges_, my journey has been one of relentless pursuit toward research excellence.  Currently, I am a doctoral candidate at [D Lab - IISc Bangalore](https://d3lab-iisc.github.io/), where my research focuses on developing machine learning frameworks to perform inverse parameter identification for different class of materials.
+With eight years of combined industrial and research experience, I have led innovative projects at [SMSS Lab - IIT Kanpur](https://www.iitk.ac.in/smss/), including the development of an SMA-powered bionic arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, I am passionate about wall climbing and participate in 5/10km runs. I also enjoy floral and astrophotography, capturing the beauty of nature and the cosmos. -->
+
 ---
+Kanhaiya Lal Chaurasiya, born in [Varanasi](https://varanasi.nic.in/), is currently a PhD candidate at the [Dynamics Data Design Lab](https://d3lab-iisc.github.io/), IISc Bangalore, where his research focuses on data-driven modeling and inverse parameter identification of advanced materials. 
 
-Born and raised in [Varanasi](https://varanasi.nic.in/), the world's oldest living city on the _River Ganges_, my journey has been one of relentless pursuit toward research excellence.  Currently, I am a doctoral candidate at [D Lab - IISc Bangalore](https://d3lab-iisc.github.io/), where my research focuses on developing machine learning frameworks to perform inverse parameter identification for different class of materials.
-
-
-With eight years of combined industrial and research experience, I have led innovative projects at [SMSS Lab - IIT Kanpur](https://www.iitk.ac.in/smss/), including the development of an SMA-powered bionic arm, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, I am passionate about wall climbing and participate in 5/10km runs. I also enjoy floral and astrophotography, capturing the beauty of nature and the cosmos.
+He holds 4 Indian & 1 US Patents and has 8 years of combined industrial and research experience. At [IIT Kanpur](https://www.iitk.ac.in/smss/), he led pioneering projects including SMA-powered bionic arms, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, he is passionate about wall climbing, 5/10 km running, and enjoys floral and astrophotography.
 {style="text-align: justify;"}
