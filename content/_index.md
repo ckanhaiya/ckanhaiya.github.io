@@ -183,6 +183,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: recentpub
     content:
       title: Recent Publications
       text: |-

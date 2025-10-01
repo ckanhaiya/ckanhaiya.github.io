@@ -2,14 +2,14 @@
 title: 'Hetero-EUCLID: Interpretable model discovery for heterogeneous hyperelastic
   materials using stress-unsupervised learning'
 authors:
-- Kanhaiya Lal Chaurasiya
+- admin
 - Saurav Dutta
 - Siddhant Kumar
 - Akshay Joshi
 date: '2025-09-01'
 publishDate: '2025-09-22T05:07:00.890109Z'
 publication_types:
-- manuscript
+- preprint
 publication: '*arXiv*'
 doi: 10.48550/arXiv.2509.11784
 abstract: We propose a computational framework, Hetero-EUCLID, for segmentation and
@@ -35,8 +35,7 @@ abstract: We propose a computational framework, Hetero-EUCLID, for segmentation 
   such as fibroatheroma, atherosclerosis, or cancer.
 tags:
 - Computer Science - Computational Engineering
-- Finance
-- and Science
+- Material Science
 links:
 - name: URL
   url: http://arxiv.org/abs/2509.11784
