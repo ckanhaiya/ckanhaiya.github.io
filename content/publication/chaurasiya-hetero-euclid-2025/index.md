@@ -2,7 +2,7 @@
 title: 'Hetero-EUCLID: Interpretable model discovery for heterogeneous hyperelastic
   materials using stress-unsupervised learning'
 authors:
-- admin
+- Kanhaiya Lal Chaurasiya
 - Saurav Dutta
 - Siddhant Kumar
 - Akshay Joshi
