@@ -20,7 +20,7 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Gallery
-    url: '#photos'
+    url: '#gallery'
     weight: 50
   - name: CV
     url: https://ckanhaiya.github.io/uploads/resume.pdf
