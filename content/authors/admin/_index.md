@@ -89,3 +89,4 @@ highlight_name: true
 # {style="text-align: justify;"}
 ---
 Kanhaiya Lal Chaurasiya, born in [Varanasi](https://varanasi.nic.in/), is currently a PhD candidate at the [Dynamics, Data and Design (D<sup>3</sup>) Lab](https://d3lab-iisc.github.io/), IISc Bangalore, where his research focuses on data-driven modeling and inverse parameter identification of advanced materials. He holds 4 Indian & 1 US Patents and has 8 years of combined industrial and research experience. At [IIT Kanpur](https://www.iitk.ac.in/smss/), he led pioneering projects including SMA-powered bionic arms, variable stiffness actuators, pipe health monitoring robots, and cargo hyperloop mobility systems. Outside of work, he is passionate about wall climbing, 5/10 km running, and enjoys floral and astrophotography.
+{style="text-align: justify;"}

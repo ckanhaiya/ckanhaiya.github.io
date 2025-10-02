@@ -97,9 +97,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'google'
-    # provider: 'mapnik'
-    api_key: AIzaSyBvVBgKPCQGHE_6K1ZV03SbnRCC9U8pnb8
+    provider: 'mapnik'
+    api_key: 
     zoom: 17
 
 # Extensions
