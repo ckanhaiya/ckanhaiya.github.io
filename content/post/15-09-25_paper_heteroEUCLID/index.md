@@ -3,7 +3,7 @@
 
 title: arXiv Preprint on Hetero-EUCLID (September-2025)
 # subtitle: ""
-summary: Hetero-EUCLID: Interpretable model discovery for heterogeneous hyperelastic materials using stress-unsupervised learning
+summary: (Hetero-EUCLID) Interpretable model discovery for heterogeneous hyperelastic materials using stress-unsupervised learning
 authors:  
   - admin
   - Saurav Dutta
