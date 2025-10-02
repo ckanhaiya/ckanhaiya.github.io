@@ -277,8 +277,8 @@ sections:
       contact_links:
       - icon: linkedin
         icon_pack: fab
-        name: Connect me
-        link: https://www.linkedin.com/in/klc243g/ 
+        name: Connect via LinkedIn
+        link: https://www.linkedin.com/in/ckanhaiya/
       # - icon: at
       #   icon_pack: fab
       #   name: kanhaiya.chaurasiya@outlook.com
