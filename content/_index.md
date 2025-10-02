@@ -188,7 +188,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        [Click for all publications](./publication/)
+        [Click for full publications list](./publication/)
         {{% /callout %}}
       filters:
         folders:
