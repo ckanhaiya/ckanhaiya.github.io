@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Preprint:arXiv on Hetero-EUCLID (September-2025)
+title: arXiv Preprint on Hetero-EUCLID (September-2025)
 # subtitle: ""
 summary: Hetero-EUCLID: Interpretable model discovery for heterogeneous hyperelastic materials using stress-unsupervised learning
 authors:  

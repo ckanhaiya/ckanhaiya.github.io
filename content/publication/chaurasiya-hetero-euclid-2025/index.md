@@ -13,6 +13,9 @@ publication_types:
 publication: '*arXiv*'
 doi: 10.48550/arXiv.2509.11784
 
+# Display this page in the Featured widget?
+featured: true
+
 abstract: We propose a computational framework, Hetero-EUCLID, for segmentation and
   parameter identification to characterize the full hyperelastic behavior of all constituents
   of a heterogeneous material. In this work, we leverage the Bayesian-EUCLID (Efficient
