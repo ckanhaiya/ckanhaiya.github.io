@@ -45,7 +45,7 @@ projects: []
 # - ### [Cargo-Hyperloop Mobility System]({{< relref "/project/cargo-hyperloop" >}})
 # {{% /callout %}}
 ---
-{{< figure src="featured.png">}}
+{{< figure src="featured.jpg">}}
 
 
 ### Abstract
