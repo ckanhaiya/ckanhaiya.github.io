@@ -43,11 +43,9 @@ projects: []
 ---
 {{< figure src="product.jpg">}}
 
-Another feather in the cap! Grateful to share the grant of my 4th Patent, the second in the Cargo Hyperloop Mobility System series.
+Another feather in the cap! Grateful to share the grant of my 4th Patent, the second in the **Cargo Hyperloop Mobility System series**.This concept highlights the creation of air cushions to enable frictionless transportation, with cargo modules driven through pipelines using compressed air.
 
-This concept highlights the creation of air cushions to enable frictionless transportation, with cargo modules driven through pipelines using compressed air.
-
-Our R&D efforts have been expertly guided by Prof. Bishakh Bhattacharya, Prof. Gautam Biswas, and Dr. Arun Kumar Varma, whose invaluable support has been key to this achievement.
+Our R&D efforts have been expertly guided by IIT Kanpur faculty members, **Prof. Bishakh Bhattacharya**, **Prof. Gautam Biswas**, and **Dr. Arun Kumar Varma**, whose invaluable support has been key to this achievement.
 
 Thanks to the generous support from [Central Mine Planning & Design Institute](https://scienceandtech.cmpdi.co.in/). This system promises to revolutionize surface coal transport by providing an alternative to traditional methods like trucks, conveyors, and trains, connecting coal mines to user agencies seamlessly.
 
