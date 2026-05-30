@@ -2,7 +2,7 @@
 title: Design, modelling and experimental validation of bipenniform shape memory alloy-based
   linear actuator integrable with hydraulic stroke amplification mechanism
 authors:
-- Kanhaiya Lal Chaurasiya
+- admin
 - Ruchira Kumar Pradhan
 - Yashaswi Sinha
 - Shivam Gupta
