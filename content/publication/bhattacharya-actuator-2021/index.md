@@ -1,5 +1,5 @@
 ---
-title: An Actuator for a Valve
+title: Actuator with Shape Memory Alloy elements for Operating a Valve
 authors:
 - Bishakh Bhattacharya
 - Kapil Das Sahu
@@ -21,8 +21,8 @@ abstract: An assembly includes a frame configured to couple to a valve, an actua
   against the biasing member to bias the actuating arm in a second direction opposite
   the first direction relative to the frame.
 
-publication: 'Application Number - PCT/US2022/041899'
+publication: 'Patent Number - US 12,631,263 B2'
 links:
 - name: URL
-  url: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023034215
+  url: https://patentscope.wipo.int/search/en/detail.jsf?docId=US442711209
 ---
