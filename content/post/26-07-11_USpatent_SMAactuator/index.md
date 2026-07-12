@@ -46,6 +46,7 @@ projects: []
 I am happy to share that my prior work at Smart Materials, Structures and Systems Laboratory (SMSS Lab), IIT Kanpur, in collaboration with Johnson Controls India has been granted a United States Patent.
 
 **Patent title:** Actuator with Shape Memory Alloy Elements for Operating a Valve
+
 **US Patent No.:** 12,631,263 B2
 
 Valve actuators are essential components of building automation and HVAC control systems, and conventionally, they employ a stepper motor to position HVAC control valves. Our patented concept explores a different actuation route. It uses suitably arranged shape memory alloy elements to generate the force required to operate a valve. The approach has the potential to reduce dependence on conventional motors and gear trains, enabling compact and quiet actuation with fewer moving components.
