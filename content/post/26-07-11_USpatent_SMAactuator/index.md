@@ -41,7 +41,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-{{< figure src="Usgrant.jpg">}}
+{{< figure src="USgrant.jpg">}}
 
 I am happy to share that my prior work at Smart Materials, Structures and Systems Laboratory (SMSS Lab), IIT Kanpur, in collaboration with Johnson Controls India has been granted a United States Patent.
 
