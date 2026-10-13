@@ -271,6 +271,8 @@ sections:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
        # Choose a map provider in `params.yaml` to show a map from these coordinates
+      # Google Maps place shown in the embedded map (gives the place card on the pin)
+      map_query: 'Department of Mechanical Engineering, Indian Institute of Science, Bengaluru'
       coordinates:
         latitude: '13.015766493942056'
         longitude: '77.57195340887293'  

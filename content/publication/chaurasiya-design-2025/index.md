@@ -1,6 +1,5 @@
 ---
-title: Design, modelling and experimental validation of bipenniform shape memory alloy-based
-  linear actuator integrable with hydraulic stroke amplification mechanism
+title: Design, modelling and experimental validation of single and multisloped bipenniform architecture-based shape memory alloy-driven linear actuator
 authors:
 - admin
 - Ruchira Kumar Pradhan

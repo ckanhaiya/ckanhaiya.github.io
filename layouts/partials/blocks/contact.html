@@ -155,11 +155,13 @@
   </ul>
 
   {{/* Local override: keyless Google Maps embed when `map.provider: google_embed` in `params.yaml`. */}}
+  {{/* `map_query` (a Google Maps place name) shows the place card; falls back to the raw coordinates. */}}
   {{ if and (eq (lower site.Params.features.map.provider) "google_embed") $data.coordinates.latitude }}
+  {{ $map_query := $data.map_query | default (printf "%v,%v" $data.coordinates.latitude $data.coordinates.longitude) }}
   <div class="embed-responsive embed-responsive-16by9 mt-4">
     <iframe class="embed-responsive-item" style="border:0;" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"
       title="{{ i18n "contact_address" | default "Location" }}"
-      src="https://maps.google.com/maps?q={{ $data.coordinates.latitude }},{{ $data.coordinates.longitude }}&z={{ site.Params.features.map.zoom | default 15 }}&output=embed"></iframe>
+      src="https://maps.google.com/maps?q={{ $map_query | urlquery }}&z={{ site.Params.features.map.zoom | default 15 }}&output=embed"></iframe>
   </div>
   {{ else if and site.Params.features.map.provider $data.coordinates.latitude }}
   <div class="d-none">
