@@ -5,7 +5,7 @@ title: ISSS Technology Award - 2022 jontly awarded to Kanhaiya Lal Chaurasiya an
 
 #subtitle: ''
 
-summary: Constituted by Institute for Smart Structures and Systems (ISSS), a professional society at IISc Bangalore.
+summary: Constituted by Institute for Smart Structures and Systems (ISSS), a professional society at IISc Bengaluru.
 
 authors: 
   - admin

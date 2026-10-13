@@ -29,6 +29,10 @@ marketing:
     google: ''
     baidu: ''
 
+# Hide the "Published with Wowchemy" footer line
+
+i_am_a_sponsor: true
+
 # Site header
 
 header:
@@ -97,7 +101,8 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapbox'
+    # 'google_embed' = keyless Google Maps embed (see layouts/partials/blocks/contact.html)
+    provider: 'google_embed'
     api_key: 
     zoom: 17
 

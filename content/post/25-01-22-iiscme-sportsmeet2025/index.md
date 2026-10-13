@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Annual Sports Meet 2025 @ ME, IISC Bangalore
+title: Annual Sports Meet 2025 @ ME, IISC Bengaluru
 
 summary: Won Gold medal (400m race) & Bronze (200m race)
 
