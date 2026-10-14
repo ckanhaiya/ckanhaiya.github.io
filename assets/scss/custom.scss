@@ -1,0 +1,18 @@
+// Override this file to add your own SCSS styling.
+
+// Patents page (`content/patents/`): show whole certificates instead of cropped tiles.
+#patents {
+  .gallery-grid {
+    grid-auto-rows: auto;
+  }
+
+  .gallery-item {
+    grid-row-end: auto;
+    aspect-ratio: 620 / 877; // A4 portrait, matches the Indian certificates
+    background: transparent;
+
+    img {
+      object-fit: contain;
+    }
+  }
+}
